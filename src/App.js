@@ -7,7 +7,7 @@ function App() {
           <div className="flex flex-col md:flex-row items-center gap-8">
             <div className="flex-shrink-0">
               <img 
-                src="/leo-picture.jpg" 
+                src="leo-picture.jpg" 
                 alt="Leo Profile" 
                 className="w-48 h-48 md:w-56 md:h-56 rounded-full object-cover"
               />
@@ -21,7 +21,7 @@ function App() {
               </p>
               <div className="mt-4">
                 <a 
-                  href="/Leo Bantolino ReSUME V2.pdf" 
+                  href="Leo Bantolino ReSUME V2.pdf" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="inline-block px-4 py-2 rounded bg-white text-black hover:bg-gray-200 transition-colors duration-300"
@@ -47,7 +47,7 @@ function App() {
             <div className="flex items-start gap-4">
               <div className="w-24 h-24 bg-white rounded-full flex items-center justify-center flex-shrink-0 overflow-hidden p-2">
                 <img 
-                  src="/Magnet_Forensics_Logo.png" 
+                  src="Magnet_Forensics_Logo.png" 
                   alt="Magnet Forensics Logo" 
                   className="w-full h-full object-contain"
                 />
@@ -96,7 +96,7 @@ function App() {
             <div className="flex items-start gap-4">
               <div className="w-24 h-24 bg-white rounded-full flex items-center justify-center flex-shrink-0 overflow-hidden p-2">
                 <img 
-                    src="/University_of_Guelph_logo.png" 
+                    src="University_of_Guelph_logo.png" 
                     alt="University of Guelph Logo" 
                     className="w-full h-full object-contain"
                   />
@@ -135,7 +135,7 @@ function App() {
             <div className="flex items-start gap-4">
               <div className="w-24 h-24 bg-white rounded-full flex items-center justify-center flex-shrink-0 overflow-hidden p-2">
                 <img 
-                    src="/oneHSN-logo.png" 
+                    src="oneHsn-logo.png" 
                     alt="OneHSN Logo" 
                     className="w-full h-full object-contain"
                   />
