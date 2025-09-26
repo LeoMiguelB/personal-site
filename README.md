@@ -1,0 +1,1 @@
+This is simply my personal portfolio. I hope this showcases my skills and folks get to learn a thing or two about me.
