@@ -21,7 +21,7 @@ function App() {
               </p>
               <div className="mt-4">
                 <a 
-                  href="Leo Bantolino ReSUME V2.pdf" 
+                  href="Leo Bantolino RESUME V2.pdf" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="inline-block px-4 py-2 rounded bg-white text-black hover:bg-gray-200 transition-colors duration-300"
